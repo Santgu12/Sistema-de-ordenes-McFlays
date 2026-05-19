@@ -1,4 +1,4 @@
-# 🍔 McFly's Orders
+# 🍔 McFlay's Orders
 
 Sistema web de pedidos para hamburguesería desarrollado con HTML, CSS y JavaScript.
 
