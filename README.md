@@ -23,6 +23,15 @@ Sistema web de pedidos para hamburguesería desarrollado con HTML, CSS y JavaScr
 - Integración backend
 - Panel administrador
 - Login de usuarios
+# 📸 Preview
+
+## Home
+
+![Home](assets/home.png)
+
+## Cart
+
+![Cart](assets/cart.png)
 
 ## 👨‍💻 Desarrollado por
 
